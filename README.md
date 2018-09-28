@@ -42,7 +42,7 @@ Resources
 This project uses the following style guides and repositories:
 
 - Udacity's Project Grading Rubric and Frontend Nanodegree [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide)
-- This repository contains the static webpage code from Udacity's [Mobile Web Specialist Restaurant Reviews project: Stage #1](https://github.com/udacity/mws-restaurant-stage-1)
+- This repository contains the static webpage code from Udacity's Mobile Web Specialist [Restaurant Reviews project: Stage #1](https://github.com/udacity/mws-restaurant-stage-1)
 
 Contributions and Feedback
 --------

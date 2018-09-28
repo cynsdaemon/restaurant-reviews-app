@@ -29,7 +29,7 @@ Project Setup Instructions
     - Python 3: ```python3 -m http.server 8000```
 3. Visit the site in your web browser at http://localhost:8000
 
-:heavy_check_mark: Be sure to follow the dependency setup instructions specific to your machine's operating system. Then, fork, download or clone this project [from Github](https://github.com/cynsdaemon/feed-reader-testing/) and open it in your favorite web browser or run a local server.
+:heavy_check_mark: Be sure to follow the dependency setup instructions specific to your machine's operating system. Then, fork, download or clone this project [from Github](https://github.com/cynsdaemon/restaurant-reviews-app/) and open it in your favorite web browser or run a local server.
 
 Screenshot of Restaurant Reviews App up and running
 --------

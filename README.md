@@ -33,19 +33,19 @@ Screenshots of Restaurant Reviews App up and running
 ![](img/.png)
 
 
-Misc
+License
+--------
+
+For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2018 [Cynthia L. Wright](https://www.cynthialanel.com).
+
+
+Miscellaneous
 --------
 
 This project uses the following style guides and repositories:
 
 - Udacity's Project Grading Rubric and Frontend Nanodegree [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide)
 - This repository contains starter code from Udacity's Mobile Web Specialist project [Restaurant Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1)
-
-
-License
---------
-
-For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this project. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2018 [Cynthia L. Wright](https://www.cynthialanel.com).
 
 
 

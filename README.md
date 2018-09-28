@@ -45,7 +45,7 @@ This project uses the following style guides and repositories:
 License
 --------
 
-This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2018 [Cynthia L. Wright](https://www.cynthialanel.com). For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this project.
+For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this project. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2018 [Cynthia L. Wright](https://www.cynthialanel.com).
 
 
 

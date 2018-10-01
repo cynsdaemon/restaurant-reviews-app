@@ -4,7 +4,7 @@
 
 This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree.
 
-This project started as a static webpage and I gradually converted it into a responsive, mobile-friendly Progressive Web Application.
+This project started as a static webpage and I gradually converted it into a responsive Progressive Web Application.
 
 You may view the live project [here](https://cynsdaemon.github.io/restaurant-reviews-app/).
 

@@ -4,6 +4,8 @@
 
 This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree.
 
+This app uses a database helper or `dbhelper.js` file and populates data from the `restaurants.json`
+
 This project started as a static webpage and I gradually converted it into a responsive Progressive Web Application.
 
 You may view the live project [here](https://cynsdaemon.github.io/restaurant-reviews-app/).
@@ -26,6 +28,8 @@ Project Setup Instructions
     - Python 2: ```python -m SimpleHTTPServer 8000```
     - Python 3: ```python3 -m http.server 8000```
 3. Visit the site in your web browser at http://localhost:8000
+
+See [troublshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/Troubleshooting) for advice on getting through a few scenarios after setup.
 
 Screenshots of Restaurant Reviews App up and running
 --------

@@ -12,9 +12,14 @@
 
 @media screen and (min-width: 940px) {
     /* Large screens */
-    .wrapper {
-        max-width: 1080px;
-      }
+    .restaurants {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .restaurants li {
+        max-width: 20%;
+    }
 
     .inside #map-container {
         height: 50%;
@@ -44,3 +49,10 @@
 
 }
 
+@media screen and (min-width: 1020px) {
+
+    body {
+        max-width: 1020px;
+    }
+
+}

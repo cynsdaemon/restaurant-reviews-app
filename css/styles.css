@@ -19,7 +19,7 @@ ul, li {
     color: #333;
 }
 a {
-    color: orange;
+    color: #ffa500;
     text-decoration: none;
 }
 a:hover, a:focus {
@@ -85,7 +85,7 @@ nav h1 a {
 /* Add a slash symbol (/) before/behind each list item */
 #breadcrumb li+li:before {
     padding: 8px;
-    color: black;
+    color: #000000;
     content: "/\00a0";
 }
 
@@ -158,10 +158,11 @@ nav h1 a {
 }
 .restaurants p {
     margin: 0;
+    padding: 10px;
     font-size: 11pt;
 }
 .restaurants li a {
-    background-color: orange;
+    background-color: #ffa500;
     border-bottom: 3px solid #eee;
     color: #fff;
     margin: 15px 0 0;

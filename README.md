@@ -15,6 +15,7 @@ Resources
 
 :heavy_check_mark: This project uses the following dependencies:
 
+- [ ] Python read about configuring [Python for your system](https://www.python.org/downloads/)
 - [ ] Mapbox [map API](https://www.mapbox.com/mapbox-gl-js/api/)
 - [ ] Leaflet.js an open source library for [mobile-friendly maps](https://leafletjs.com/examples/quick-start/)
 - [ ] a Service Worker for caching assets for offline use - Read about [service workers](https://developers.google.com/web/fundamentals/primers/service-workers/#what_is_a_service_worker)
@@ -27,6 +28,7 @@ Project Setup Instructions
 2. In the root of this project's directory launch a local server:
     - Python 2: ```python -m SimpleHTTPServer 8000```
     - Python 3: ```python3 -m http.server 8000```
+    - Windows 10 ```py -m http.server 8000```
 3. Visit the site in your web browser at http://localhost:8000
 
 See [troublshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/Troubleshooting) for advice on getting through a few scenarios after setup.

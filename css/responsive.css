@@ -3,19 +3,23 @@
 @media screen and (max-width: 360px) {
     /* Small screens */
 }
+
 @media screen and (min-width: 760px) {
     /* Medium screens */
+
+    .restaurants li {
+        max-width: 42%;
+    }
+
+    .filter-options select {
+        width: 200px;
+
+    }
+
 }
 
-
-
-
-@media screen and (min-width: 940px) {
+@media screen and (min-width: 840px) {
     /* Large screens */
-    .restaurants {
-        display: flex;
-        flex-wrap: wrap;
-    }
 
     .restaurants li {
         max-width: 20%;

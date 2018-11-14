@@ -1,14 +1,19 @@
 /* ====================== Media Queries ====================== */
 
-@media screen and (max-width: 360px) {
-    /* Small screens */
+
+@media screen and (max-width: 560px) {
+    /* Smallish screens */
+    justify-content: space-around;
+    .restaurants li {
+        width: 40%;
+    }
 }
 
 @media screen and (min-width: 760px) {
-    /* Medium screens */
+    /* SMedium screens */
 
     .restaurants li {
-        max-width: 42%;
+        width: 26%;
     }
 
     .filter-options select {
@@ -19,44 +24,10 @@
 }
 
 @media screen and (min-width: 840px) {
-    /* Large screens */
-
-    .restaurants li {
-        max-width: 20%;
-    }
-
-    .inside #map-container {
-        height: 50%;
-        position: fixed;
-        right: 0;
-        top: 80px;
-        width: 50%;
-    }
-
-    .inside header {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        z-index: 1000;
-    }
-
-    .inside #map {
-        background-color: #ccc;
-        height: 100%;
-        width: 100%;
-    }
-    .inside .colophon {
-        bottom: 0;
-        position: absolute;
-        width: 50%;
+    /* Medium screens */
+    .info-snippet {
+        display: flex;
     }
 
 }
 
-@media screen and (min-width: 1020px) {
-
-    body {
-        max-width: 1020px;
-    }
-
-}

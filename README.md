@@ -8,8 +8,6 @@ This app uses a database helper or `dbhelper.js` file and populates data from th
 
 This project started as a static webpage and I gradually converted it into a responsive Progressive Web Application.
 
-You may view the live project [here](https://cynsdaemon.github.io/restaurant-reviews-app/).
-
 Resources
 --------
 

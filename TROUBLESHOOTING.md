@@ -12,7 +12,7 @@ This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. 
 
 4. When making file changes, disable the cache for the app in the web browser's dev tools. Then see step #3 above.
 
-## Scenario 3 - I can view the project locally, but not using Github pages
+## Scenario 3 - I can view the project locally, but not when viewing the project using Github pages
 
 5. To view the project on Github pages, in your ``dbhelp.js`` file change:
 

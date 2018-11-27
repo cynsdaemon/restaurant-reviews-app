@@ -11,3 +11,13 @@ This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. 
 ##Scenario 2 - The web browser is serving an old file aka "the phantom file"
 
 4. When making file changes, disable the cache for the app in the web browser's dev tools. Then see step #3 above.
+
+## Scenario 3 - I can view the project locally, but not using Github pages
+
+5. To view the project on Github pages, in your ``dbhelp.js`` file change:
+
+`http://localhost:${port}/data/restaurants.json` 
+
+to the following:
+
+`https://{your-username}.github.io/{your-project-name}/data/restaurants.json`

@@ -8,7 +8,7 @@ This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. 
 2. Back in the terminal or in a text editor, make sure to start the server from whatever port number set in dbhelper.js file.
 3. Clear your browser's cache or do a hard fresh for the browser tab.
 
-##Scenario 2 - The web browser is serving an old file aka "the phantom file"
+## Scenario 2 - The web browser is serving an old file aka "the phantom file"
 
 4. When making file changes, disable the cache for the app in the web browser's dev tools. Then see step #3 above.
 

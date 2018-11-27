@@ -31,7 +31,7 @@ Project Setup Instructions
 4. Change the server port number by updating the `dbhelper.js` file
 
 
-See [troublshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/Troubleshooting) for advice on getting through a few scenarios after setup.
+See [troubleshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/Troubleshooting) for advice on getting through a few scenarios after setup.
 
 Screenshots of Restaurant Reviews App up and running
 --------

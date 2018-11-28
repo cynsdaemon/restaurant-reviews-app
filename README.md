@@ -2,9 +2,7 @@
 # Restaurant Reviews App
 --------
 
-This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project started as a static webpage that's been gradually converted it into a responsive Progressive Web Application.
-
-This project uses a database helper or `dbhelper.js` file and populates data from the `restaurants.json`.
+This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project started as a static webpage that was gradually converted to a responsive Progressive Web Application. It uses a database helper or `dbhelper.js` file and populates data from the `restaurants.json`. A service worker handles cache for offline data storage.
 
 The project can be viewed live [here]( https://cynsdaemon.github.io/restaurant-reviews-app/)
 
@@ -31,7 +29,7 @@ Project Setup Instructions
 4. Change the server port number by updating the `dbhelper.js` file
 
 
-See [troubleshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/Troubleshooting) for advice on getting through a few scenarios after setup.
+See [troubleshooting](TROUBLESHOOTING.md) for advice on getting through a few scenarios after setup.
 
 Screenshots of Restaurant Reviews App up and running
 --------
@@ -57,10 +55,10 @@ For **feedback** feel free to open an [issue on Github](https://github.com/cynsd
 Miscellaneous
 --------
 
-This project uses the following style guides and repositories:
+This repository uses the following style guides and repositories:
 
-- Udacity's Project Grading Rubric and Frontend Nanodegree [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide)
-- This repository contains starter code from Udacity's Mobile Web Specialist project [Restaurant Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1)
+- Udacity's Project Grading Rubric and [Style Guides](https://github.com/udacity/frontend-nanodegree-styleguide) for the Frontend Nanodegree
+- Starter code from Udacity's Mobile Web Specialist project [Restaurant Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1)
 
 
 

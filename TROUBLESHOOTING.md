@@ -12,22 +12,25 @@ This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. 
 
 4. When making file changes, disable the cache for the app in the web browser's dev tools. Then see step #3 above.
 
-## Scenario 3 - I can view the project locally, but not when viewing the project using Github pages
+## Scenario 3 - I can view the project on my local machine, but not when viewing the project online (eg Github pages)
 
 5. To view the project on Github pages, in your ``dbhelp.js`` file change:
 
-`http://localhost:${port}/data/restaurants.json` 
+> `http://localhost:${port}/data/restaurants.json`
 
 to the following:
 
-`https://{your-username}.github.io/{your-project-name}/data/restaurants.json`
+> `https://{your-username}.github.io/{your-project-name}/data/restaurants.json`
 
-## Scenario 4 - The restaurant images aren't loading on the project's live Github page
+## Scenario 4 - The restaurant images aren't loading on the project's live (eg Github pages)
 
 6. In the `dbhelp.js` file change: 
 
-`/img/${restaurant.photograph}`
+> `/img/${restaurant.photograph}`
 
 to the following: 
-    
-`https://{your-username}.github.io/{your-project-name}/img/${restaurant.photograph}`
+
+> `https://{your-username}.github.io/{your-project-name}/img/${restaurant.photograph}`
+
+
+[Go to project ReadMe](README.md)

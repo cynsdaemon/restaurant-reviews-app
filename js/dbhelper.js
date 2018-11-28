@@ -153,7 +153,7 @@ class DBHelper {
     static imageUrlForRestaurant(restaurant) {
         // return (`/img/${restaurant.photograph}`);
 
-        return (`restaurant-reviews-app/img/${restaurant.photograph}`); 
+        return (`https://cynsdaemon.github.io/restaurant-reviews-app/img/${restaurant.photograph}`); 
       
     }
 

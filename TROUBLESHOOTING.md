@@ -21,3 +21,13 @@ This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. 
 to the following:
 
 `https://{your-username}.github.io/{your-project-name}/data/restaurants.json`
+
+## Scenario 4 - The restaurant images aren't loading on the project's live Github page
+
+6. In the `dbhelp.js` file change: 
+
+`/img/${restaurant.photograph}`
+
+to the following: 
+    
+`https://{your-username}.github.io/{your-project-name}/img/${restaurant.photograph}`

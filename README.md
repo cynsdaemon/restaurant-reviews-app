@@ -36,7 +36,12 @@ See [troubleshooting](https://github.com/cynsdaemon/restaurant-reviews-app/wiki/
 Screenshots of Restaurant Reviews App up and running
 --------
 
-![](img/.png)
+![Restaurant Reviews on mobile](screenshots/screenshot-restaurant-reviews-mobile.jpg)
+
+![Restaurant Reviews on tablet](screenshots/screenshot-restaurant-reviews-tablet.png)
+
+![Restaurant Reviews on desktop](screenshots/screenshot-restaurant-reviews-desktop.jpg)
+
 
 
 License

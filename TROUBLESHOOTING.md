@@ -1,5 +1,14 @@
 # Troubleshooting
 
+Table of Content: 
+
+| Description | Link to Page |
+| ------------ | ------------- |
+| Overview of project | [README](README.md)
+| Stumbling on some project gotchas | [You are here](TROUBLESHOOTING.md)
+
+---
+
 This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. After following the instructions to run this project locally and making changes, a few scenarios may happen:
 
 ## Scenario 1 - The map and/or its map markers won't load.
@@ -33,4 +42,3 @@ to the following:
 > `https://{your-username}.github.io/{your-project-name}/img/${restaurant.photograph}`
 
 
-[Go to project ReadMe](README.md)

@@ -2,7 +2,7 @@
 # Restaurant Reviews App
 --------
 
-This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project started as a static webpage that was gradually converted to a responsive Progressive Web Application. It uses a database helper or `dbhelper.js` file and populates data from the `restaurants.json`. A service worker handles cache for offline data storage.
+This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project started as an unresponsive webpage that was gradually converted to a responsive Progressive Web Application. It uses a database helper (ie. `dbhelper.js` file) to populate data from the `restaurants.json`. The `main.js` generates the HTML element for the index page, while the `restaurant_info.js` renders the view for the restaurant review page. A service worker handles cache for offline data storage.
 
 The project can be viewed live [here]( https://cynsdaemon.github.io/restaurant-reviews-app/)
 

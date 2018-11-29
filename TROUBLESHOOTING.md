@@ -1,11 +1,11 @@
 # Troubleshooting
 
-Table of Content: 
+ :point_right: Table of Content: 
 
 | Description | Link to Page |
 | ------------ | ------------- |
 | Overview of project | [README](README.md)
-| Stumbling on some project gotchas | [You are here](TROUBLESHOOTING.md)
+| Stumbling through some project gotchas | [You are here](TROUBLESHOOTING.md)
 
 ---
 

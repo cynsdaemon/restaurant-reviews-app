@@ -2,12 +2,12 @@
 # Restaurant Reviews App
 --------
 
-Table of Content: 
+ :point_right: Table of Content: 
 
 | Description | Link to Page |
 | ------------ | ------------- |
 | README | [You are here](README.md)
-| Stumbling on some project gotchas | [Troubleshooting](TROUBLESHOOTING.md)
+| Stumbling through some project gotchas | [Troubleshooting](TROUBLESHOOTING.md)
 
 ---
 

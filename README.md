@@ -2,9 +2,9 @@
 # Restaurant Reviews App
 --------
 
-This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. This project started as an unresponsive webpage that was gradually converted to a responsive Progressive Web Application. 
+This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. 
 
-It uses a database helper (ie. `dbhelper.js` file) to populate data from the `restaurants.json` file. The `main.js` generates the HTML element for the index page, while the `restaurant_info.js` renders the view for the restaurant review page. A service worker caches the app data for offline storage.
+This project started as an unresponsive webpage that was gradually converted to a responsive Progressive Web Application. It uses a database helper (ie. `dbhelper.js` file) to populate data from the `restaurants.json` file. The `main.js` generates the HTML element for the index page, while the `restaurant_info.js` renders the view for the restaurant review page. A service worker caches the app data for offline storage.
 
 The project can be viewed live [here]( https://cynsdaemon.github.io/restaurant-reviews-app/)
 
@@ -13,7 +13,7 @@ Resources
 
 :heavy_check_mark: This project uses the following dependencies:
 
-- [ ] Python read about configuring [Python for your system](https://www.python.org/downloads/)
+- [ ] Python - read about configuring [Python for your system](https://www.python.org/downloads/)
 - [ ] Mapbox [map API](https://www.mapbox.com/mapbox-gl-js/api/)
 - [ ] Leaflet.js an open source library for [mobile-friendly maps](https://leafletjs.com/examples/quick-start/)
 - [ ] a Service Worker for caching assets for offline use - Read about [service workers](https://developers.google.com/web/fundamentals/primers/service-workers/#what_is_a_service_worker)

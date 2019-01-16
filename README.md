@@ -2,7 +2,7 @@
 # Restaurant Reviews App
 --------
 
- :point_right: Table of Content: 
+:point_right: Table of Content: 
 
 | Description | Link to Page |
 | ------------ | ------------- |

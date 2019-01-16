@@ -5,4 +5,5 @@ if (navigator.serviceWorker) {
     }).catch((e) => {
       console.log("Couldn't register service worker... \n", e);
     });
-  }
+}
+

@@ -2,8 +2,7 @@
 # Restaurant Reviews App
 --------
 
-:point_right: Table of Content: 
-
+Table of Contents: 
 | Description | Link to Page |
 | ------------ | ------------- |
 | README | [You are here](README.md)
@@ -30,7 +29,7 @@ Resources
 Project Setup Instructions
 --------
 
-:memo: **To setup on a local machine:**
+**To setup on a local machine:** :memo: 
 1. Fork, clone or download and unzip [this repo](https://github.com/cynsdaemon/restaurant-reviews-app/).
 2. In the root of this project's directory launch a local server:
     - Python 2: ```python -m SimpleHTTPServer 8000```
@@ -72,7 +71,7 @@ This repository uses the following style guides and repositories:
 - Starter code from Udacity's Mobile Web Specialist project [Restaurant Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1)
 - MDN Service Worker code snippet [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
-Ref Links:
+Reference Links:
 - [Debugging Service Workers in Firefox](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)
 - [Managing Service Workers in different browsers](https://www.ghacks.net/2016/03/02/manage-service-workers-in-firefox-and-chrome/)
 - [A Brief Guide to Accessibility Tools in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=devtools&utm_medium=a11y-panel-toolbar)

@@ -1,6 +1,6 @@
 # Troubleshooting
 
- :point_right: Table of Content: 
+Table of Contents: 
 
 | Description | Link to Page |
 | ------------ | ------------- |

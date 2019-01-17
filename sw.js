@@ -1,10 +1,17 @@
+/**
+ * This file follows the Service Worker lifecycle of events via MDN - Using Promises and Service Workers: 
+ * register, install, activate, cache, delete, fetch
+ * https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
+ */
+
+
 const appName = "restaurant-reviews-app";
 const staticCacheName = appName + "-v1.0";
 const imagesCache = appName + "-images";
 
 let allCaches = [staticCacheName, imagesCache];
 
-// At Service Worker Install time, cache all static assets
+// Install service worker, cache all static assets
 self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open(staticCacheName).then(function(cache) {
@@ -25,7 +32,7 @@ self.addEventListener('install', function(event) {
   });
   
   
-  /** At Service Worker Activation, Delete previous caches, if any */
+  // Activate service worker, delete any previous caches 
   self.addEventListener('activate', function(event) {
     event.waitUntil(
       caches.keys().then(function(cacheNames) {
@@ -41,10 +48,10 @@ self.addEventListener('install', function(event) {
     );
   });
 
-  /** Hijack fetch requests and respond accordingly */
+  // Hijack fetch requests and respond accordingly
 self.addEventListener('fetch', function(event) {
 
-    // Default behavior: respond with cached elements, if any, falling back to network.
+    // Default behavior: respond with any cached elements, falling back to network.
     event.respondWith(
       caches.match(event.request).then(function(response) {
         return response || fetch(event.request);

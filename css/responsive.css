@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 760px) {
     /* SMedium screens */
-
+    
     .restaurants li {
         width: 26%;
     }
@@ -24,10 +24,11 @@
 }
 
 @media screen and (min-width: 840px) {
-    /* Medium screens */
-    .info-snippet {
-        display: flex;
+    /* Larger screens */
+    .maincontent {
+        margin: 0 auto;
+        max-width: 940px;
+        padding-left: 60px;
     }
-
 }
 

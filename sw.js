@@ -16,15 +16,16 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open(staticCacheName).then(function(cache) {
         return cache.addAll([
-          'restaurant-reviews-app/index.html', // this caches index.html
-          'restaurant-reviews-app/restaurant.html',
-          'restaurant-reviews-app/css/styles.css',
-          'restaurant-reviews-app/css/responsive.css',
-          'restaurant-reviews-app/js/dbhelper.js',
-          'restaurant-reviews-app/js/main.js',
-          'restaurant-reviews-app/js/restaurant_info.js',
-          'restaurant-reviews-app/js/register-sw.js', 
-          'restaurant-reviews-app/data/restaurants.json'
+          '/restaurant-reviews-app/',
+          '/restaurant-reviews-app/index.html',
+          '/restaurant-reviews-app/restaurant.html',
+          '/restaurant-reviews-app/css/styles.css',
+          '/restaurant-reviews-app/css/responsive.css',
+          '/restaurant-reviews-app/js/dbhelper.js',
+          '/restaurant-reviews-app/js/main.js',
+          '/restaurant-reviews-app/js/restaurant_info.js',
+          '/restaurant-reviews-app/js/register-sw.js', 
+          '/restaurant-reviews-app/data/restaurants.json'
           // add other static assets here
         ]);
       })

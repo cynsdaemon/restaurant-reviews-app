@@ -2,14 +2,6 @@
 # Restaurant Reviews App
 --------
 
-Table of Contents: 
-| Description | Link to Page |
-| ------------ | ------------- |
-| README | [You are here](README.md)
-| Stumbling through some project gotchas | [Troubleshooting](TROUBLESHOOTING.md)
-
----
-
 This repo serves as a home for the 'Restaurant Reviews App' project in the Udacity [Frontend Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) Nanodegree. 
 
 This project started as an unresponsive webpage that was gradually converted to a responsive offline application. It uses a database helper (ie. `dbhelper.js` file) to populate data from the `restaurants.json` file. The `main.js` generates the HTML element for the index page, while the `restaurant_info.js` renders the restaurant reviews page. A service worker caches the app data for offline storage allowing users to interact with the app even when offine or with sporatic internet access. 

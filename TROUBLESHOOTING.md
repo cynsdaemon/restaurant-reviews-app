@@ -1,12 +1,5 @@
 # Troubleshooting
 
-Table of Contents: 
-
-| Description | Link to Page |
-| ------------ | ------------- |
-| Overview of project | [README](README.md)
-| Stumbling through some project gotchas | [You are here](TROUBLESHOOTING.md)
-
 ---
 
 This is a quick troubleshooting guide for ~~future me~~ Restaurant Reviews App. After following the instructions to run this project locally and making changes, a few scenarios may happen:

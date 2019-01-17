@@ -76,6 +76,8 @@ Ref Links:
 - [Debugging Service Workers in Firefox](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)
 - [Managing Service Workers in different browsers](https://www.ghacks.net/2016/03/02/manage-service-workers-in-firefox-and-chrome/)
 - [A Brief Guide to Accessibility Tools in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=devtools&utm_medium=a11y-panel-toolbar)
+- [Aria Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
 
 
 

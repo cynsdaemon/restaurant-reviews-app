@@ -16,7 +16,7 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open(staticCacheName).then(function(cache) {
         return cache.addAll([
-          '/', // this caches index.html
+          '/restaurant-reviews-app/', // this caches index.html
           'restaurant-reviews-app/restaurant.html',
           'restaurant-reviews-app/css/styles.css',
           'restaurant-reviews-app/css/responsive.css',

@@ -23,7 +23,7 @@ self.addEventListener('install', function(event) {
           'restaurant-reviews-app/js/dbhelper.js',
           'restaurant-reviews-app/js/main.js',
           'restaurant-reviews-app/js/restaurant_info.js',
-          'restaurant-reviews-appjs/register-sw.js', 
+          'restaurant-reviews-app/js/register-sw.js', 
           'restaurant-reviews-app/data/restaurants.json'
           // add other static assets here
         ]);

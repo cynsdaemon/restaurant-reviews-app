@@ -33,6 +33,13 @@ Project Setup Instructions
 
 See [troubleshooting](TROUBLESHOOTING.md) for advice on getting through a few scenarios after setup.
 
+Screenshots of Restaurant Reviews App up and running
+--------
+
+### Views of Home page
+
+![Restaurant Reviews on tablet](screenshots/screenshot-restaurant-reviews-large.png)
+
 License
 --------
 
@@ -48,6 +55,11 @@ This repository uses the following style guides and repositories:
 - Starter code from Udacity's Mobile Web Specialist project [Restaurant Reviews Stage 1](https://github.com/udacity/mws-restaurant-stage-1)
 - MDN Service Worker code snippet [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
+Reference Links:
+- [Debugging Service Workers in Firefox](https://hacks.mozilla.org/2016/03/debugging-service-workers-and-push-with-firefox-devtools/)
+- [Managing Service Workers in different browsers](https://www.ghacks.net/2016/03/02/manage-service-workers-in-firefox-and-chrome/)
+- [A Brief Guide to Accessibility Tools in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=devtools&utm_medium=a11y-panel-toolbar)
+- [Aria Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 
 

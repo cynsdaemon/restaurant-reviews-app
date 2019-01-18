@@ -16,16 +16,15 @@ self.addEventListener('install', function(event) {
     event.waitUntil(
       caches.open(staticCacheName).then(function(cache) {
         return cache.addAll([
-          '/', // index.html
-          'index.html',
-          'restaurant.html',
-          'css/styles.css',
-          'css/responsive.css',
-          'js/dbhelper.js',
-          'js/main.js',
-          'js/restaurant_info.js',
-          'js/register-sw.js', 
-          'data/restaurants.json'
+          '/restaurant-reviews-app/index.html',
+          '/restaurant-reviews-app/restaurant.html',
+          '/restaurant-reviews-app/css/styles.css',
+          '/restaurant-reviews-app/css/responsive.css',
+          '/restaurant-reviews-app/js/dbhelper.js',
+          '/restaurant-reviews-app/js/main.js',
+          '/restaurant-reviews-app/js/restaurant_info.js',
+          '/restaurant-reviews-app/js/register-sw.js', 
+          '/restaurant-reviews-app/data/restaurants.json'
           // add other static assets here
         ]);
       })
@@ -58,4 +57,4 @@ self.addEventListener('fetch', function(event) {
         return response || fetch(event.request);
       })
     );
-});
+  });

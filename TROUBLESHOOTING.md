@@ -34,3 +34,8 @@ to the following:
 
 > `https://{your-username}.github.io/{your-project-name}/img/${restaurant.photograph}`
 
+** Scenario 5 - the home page isn't caching properly on Github 
+
+In the ``sw.js`` file add `/restaurant-reviews-app/` to cache
+
+

@@ -6,8 +6,6 @@ This repo serves as a home for the 'Restaurant Reviews App' project in the Udaci
 
 This project started as an unresponsive webpage that was gradually converted to a responsive offline application. It uses a database helper (ie. `dbhelper.js` file) to populate data from the `restaurants.json` file. The `main.js` generates the HTML element for the index page, while the `restaurant_info.js` renders the restaurant reviews page. A service worker `sw.js` caches the app data for offline storage allowing users to interact with the app even when offine or with sporatic internet access. 
 
-The project can be viewed live [here]( https://cynsdaemon.github.io/restaurant-reviews-app/)
-
 Resources
 --------
 
@@ -60,6 +58,7 @@ Reference Links:
 - [Managing Service Workers in different browsers](https://www.ghacks.net/2016/03/02/manage-service-workers-in-firefox-and-chrome/)
 - [A Brief Guide to Accessibility Tools in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=devtools&utm_medium=a11y-panel-toolbar)
 - [Aria Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+- [Deploying offline- first apps to Github Pages](https://hacks.mozilla.org/2015/11/offline-web-apps-on-github-pages/)
 
 
 

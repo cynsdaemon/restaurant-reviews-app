@@ -66,7 +66,8 @@ self.addEventListener('fetch', function(event) {
     // if there's a match, return cached value
     // else return result to fetch call
     // and pull data from the network
-    caches.match(event.request).then(function(response) { 
+    caches.match(event.request, {ignoreSearch: true})
+      .then(function(response) { 
         if(response) {
           return response;
         } else {

@@ -41,7 +41,7 @@ Screenshots of Restaurant Reviews App up and running
 License
 --------
 
-For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2018 [Cynthia L. Wright](https://www.cynthialanel.com).
+For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2022 [Cynthia L. Wright](https://heycynwritescodeinpjs.com).
 
 
 Miscellaneous

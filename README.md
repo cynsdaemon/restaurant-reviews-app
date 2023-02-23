@@ -57,7 +57,7 @@ Reference Links:
 License
 --------
 
-For **feedback** feel free to [open an issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [Cynthia Wright](https://heycynwrites.com).
+For **feedback** feel free to [open an issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this project. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [Cynthia Wright](https://heycynwrites.com).
 
 
 

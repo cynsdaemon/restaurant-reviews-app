@@ -38,12 +38,6 @@ Screenshots of Restaurant Reviews App up and running
 
 ![Restaurant Reviews on tablet](screenshots/screenshot-restaurant-reviews-large.png)
 
-License
---------
-
-For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2022 [Cynthia Wright](https://heycynwrites.com).
-
-
 Miscellaneous
 --------
 
@@ -59,6 +53,11 @@ Reference Links:
 - [A Brief Guide to Accessibility Tools in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector?utm_source=devtools&utm_medium=a11y-panel-toolbar)
 - [Aria Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - [Deploying offline- first apps to Github Pages](https://hacks.mozilla.org/2015/11/offline-web-apps-on-github-pages/)
+
+License
+--------
+
+For **feedback** feel free to open an [issue on Github](https://github.com/cynsdaemon/restaurant-reviews-app/issues) for this repo. This project is build with love :heart: coffee :coffee: and an awesome playlist :musical_note:. Copyright &copy; 2023-2025 [Cynthia Wright](https://heycynwrites.com).
 
 
 

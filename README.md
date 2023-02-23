@@ -38,7 +38,7 @@ Screenshots of Restaurant Reviews App up and running
 
 ![Restaurant Reviews on tablet](screenshots/screenshot-restaurant-reviews-large.png)
 
-Resources:
+Miscellaneous
 --------
 
 This repository uses the following style guides and repositories:

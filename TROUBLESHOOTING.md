@@ -24,7 +24,7 @@ to the following:
 
 > `https://{your-username}.github.io/{your-project-name}/data/restaurants.json`
 
-**Scenario 4 - The restaurant images aren't loading on the project's live (eg Github pages)** 
+**Scenario 4 - The restaurant images aren't loading on the project's live page (eg Github pages)** 
 
 6. In the `dbhelp.js` file change: 
 
